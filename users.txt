@@ -1,0 +1,4 @@
+Jose,123,asdf,asdf,Administrador,true
+Juan Jose,dsf,sad,123,Registrador de Votantes,true
+Juan,,,123,Administrador,true
+Pedro,vghj,sdf,123,Administrador,true

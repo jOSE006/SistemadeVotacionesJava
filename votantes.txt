@@ -1,0 +1,14 @@
+Nombres: Josevot
+Apellidos: s
+CUI: 123
+Sexo: M
+Fecha de Nacimiento: 2004-08-14
+Direccion: fg
+Departamento: fg
+Municipio: bnm
+Pais: bn
+Correo Electronico: bn
+Elegible: true
+Contraseña: uh6TMZjlb9WrV3m5
+Estado: Vivo
+
